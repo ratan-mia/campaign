@@ -1553,14 +1553,26 @@ text-decoration: blink;
 -webkit-animation-timing-function:ease-in-out;
 -webkit-animation-direction: alternate;
 }
-.blink img{
+/* .blink img{
 height: 120px;
 width: 120px;
 object-fit: contain;
 position: absolute;
 top: 315px;
 right:10px;
+} */
+
+
+.blink img {
+  /* height: 216px; */
+  width: 285px;
+  object-fit: contain;
+  position: absolute;
+  top: 40px;
+  right: 10px;
 }
+
+
 @media (max-width:1600px){
   .circle--slider .animate-more{
       height:350px;
