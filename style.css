@@ -623,9 +623,10 @@ z-index: 0; opacity: 0.15; background:#dd0707;}
 .color-variation-slider .owl-dots{text-align:center; margin-top:30px; }
 .color-variation-slider .owl-dots button.owl-dot{min-width:inherit; height:32px; width:32px; -webkit-border-radius:50%; border-radius:50%; background:var(--main-color); margin:0px 10px;}
 .color-variation-slider .owl-dots button:focus{outline:none;}
-.color-section .owl-dots button.owl-dot.red{background:#a92323;}
+.color-section .owl-dots button.owl-dot.red{background:#ff0000;}
 .color-section .owl-dots button.owl-dot.yellow{background:#c0b714;}
-.color-section .owl-dots button.owl-dot.black{background:#333333;}
+.color-section .owl-dots button.owl-dot.black{background:#000000;}
+.color-section .owl-dots button.owl-dot.purple{background:#800020;}
 .color-section .owl-dots button.owl-dot.aqua{background:#4f9e8d;}
 .color-section .owl-dots button.owl-dot.green{background:#509a4b;}
 .color-section .owl-dots button.owl-dot.brown{background:#987233;}
