@@ -206,7 +206,18 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 8px 15px;}
 .btn-primary.has-icon i.fa-play{font-size:16px; }
 .btn-primary.has-icon i.fa-play:before{margin-left:3px; }
 .btn-primary.play-btn{width:56px; padding:0 0 0 5px; }
-.btn-wrapper .btn + .btn {margin-left:15px;}
+
+.btn-wrapper .btn + .btn {
+  margin-left: 15px;
+}
+
+@media (max-width: 768px) {
+  .btn-wrapper .btn + .btn {
+      margin-left: 0; 
+      margin-top: 10px; 
+  }
+}
+
 
 .scroll-to{position:absolute; bottom:30px; height:auto; right:calc((100% - 1490px) / 2);}
 .scroll-to a{position:relative; display:block; color:var(--black-color); font-weight:bold;  }
