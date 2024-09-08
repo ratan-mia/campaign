@@ -27,7 +27,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
             //Recipients
             $mail->setFrom($email, $name);                             // Sender
-            $mail->addAddress('recipient-email@example.com');           // Add a recipient (your email)
+            $mail->addAddress('info@cherybd.com');           // Add a recipient (your email)
 
             // Content
             $mail->isHTML(true);                                        // Set email format to HTML
