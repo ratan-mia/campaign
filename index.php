@@ -213,7 +213,7 @@
                                             <div class="animate-wrapper">
                                                 <div class="animate animate1 ">
                                                     <div class="animate-img">
-                                                        <a href="https://en.wikipedia.org/wiki/Pothole">
+                                                        <a href="#">
                                                             <div class="animate-img__in" data-image="">
                                                                 <div class="animate-more">
                                                                     <div class="animate-title">
