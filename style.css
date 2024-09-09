@@ -1599,10 +1599,10 @@ right:10px;
   .progress-value {
       font-size: 13px;
   }
-  /* .blink img{
-      height: 100px;
-      width: 100px;
-  } */
+  .blink img{
+      height: 200px;
+      width: 200px;
+  }
   .circular-progress::before{
       height: 35px;
       width: 35px;
@@ -1669,10 +1669,10 @@ right:10px;
   .progress-value {
       font-size: 13px;
   }
-  /* .blink img{
+  .blink img{
       height: 82px;
       width: 82px;
-  } */
+  }
   .circular-progress::before{
       height: 35px;
       width: 35px;
