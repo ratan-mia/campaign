@@ -605,31 +605,8 @@
                                         </p>
                                     </div>
                                 </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/energy.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Get 2 Free Additional Services!</p>
-                                        <p>
-                                            As a reward for your campaign success, enjoy 2 extra services at no charge.
-                                            Don’t miss out on this special offer!
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/no-sound.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Refer and Reap Rewards!</p>
-                                        <p>
-                                            Refer friends and earn exciting rewards as a thank you for your campaign
-                                            efforts. The more you refer, the more you gain. Start referring today and
-                                            enjoy your rewards!
-                                        </p>
-                                    </div>
-                                </div>
+
+
                                 <div class='env_carousel__item'>
                                     <div class='carousel__item-head'>
                                         <img src="./images/zero-emission.png" alt="" class="img-fluid">
@@ -666,31 +643,6 @@
                                             up to ₹1 lakh in cash discounts. Take advantage of this exclusive reward and
                                             enjoy significant savings on your next purchase. Act now and make the most
                                             of this limited-time offer!
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/energy.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Get 2 Free Additional Services!</p>
-                                        <p>
-                                            As a reward for your campaign success, enjoy 2 extra services at no charge.
-                                            Don’t miss out on this special offer!
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/no-sound.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Refer and Reap Rewards!</p>
-                                        <p>
-                                            Refer friends and earn exciting rewards as a thank you for your campaign
-                                            efforts. The more you refer, the more you gain. Start referring today and
-                                            enjoy your rewards!
                                         </p>
                                     </div>
                                 </div>
@@ -738,31 +690,6 @@
                                 </div>
                                 <div class='env_carousel__item'>
                                     <div class='carousel__item-head'>
-                                        <img src="./images/energy.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Get 2 Free Additional Services!</p>
-                                        <p>
-                                            As a reward for your campaign success, enjoy 2 extra services at no charge.
-                                            Don’t miss out on this special offer!
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/no-sound.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Refer and Reap Rewards!</p>
-                                        <p>
-                                            Refer friends and earn exciting rewards as a thank you for your campaign
-                                            efforts. The more you refer, the more you gain. Start referring today and
-                                            enjoy your rewards!
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
                                         <img src="./images/zero-emission.png" alt="" class="img-fluid">
                                     </div>
                                     <div class='carousel__item-body'>
@@ -800,33 +727,6 @@
                                         </p>
                                     </div>
                                 </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/energy.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Get 2 Free Additional Services!</p>
-                                        <p>
-                                            As a reward for your campaign success, enjoy 2 extra services at no charge.
-                                            Don’t miss out on this special offer!
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/no-sound.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Refer and Reap Rewards!</p>
-                                        <p>
-                                            Refer friends and earn exciting rewards as a thank you for your campaign
-                                            efforts. The more you refer, the more you gain. Start referring today and
-                                            enjoy your rewards!
-                                        </p>
-                                    </div>
-                                </div>
-
-
 
 
                             </div>
@@ -1056,49 +956,49 @@
     <script src="js/custom.js"></script>
     <script src="./script.js"></script>
     <script>
-        (function (e) {
-            e.fn.circle = function (t) {
+        (function(e) {
+            e.fn.circle = function(t) {
                 var n = e.extend({
                     speed: "4000"
                 }, t);
-                return this.each(function () {
+                return this.each(function() {
                     function t() {
                         var e = i.find("li.block.active").index();
                         c.removeClass("active"), c.eq(e).addClass("active")
                     }
+
                     function o() {
                         var n;
                         i.addClass("disable-hover"), i.stop(!0, !0).animate({
                             rotatedeg: p.deg += p.step
                         }, {
                             duration: 400,
-                            step: function (t) {
+                            step: function(t) {
                                 t >= 360 ? t -= 360 : t <= -360 && (t += 360), e(this).css("transform", "rotate(" + t + "deg)"), e(this).css("-webkit-transform", "rotate(" + t + "deg)")
                             },
-                            complete: function () {
+                            complete: function() {
                                 p.active = i.find("li.active").removeClass("active"), "right" == p.direction && p.step == d && (p.active.prev() && p.active.prev().length ? (n = p.active.prev().index(), p.active.prev().addClass("active")) : (p.active.siblings(":last-child").addClass("active"), n = 9)), "left" == p.direction && p.step == u && (p.active.next() && p.active.next().length ? (n = p.active.next().index(), p.active.next().addClass("active")) : (p.active.siblings(":first-child").addClass("active"), n = 0)), i.is(":animated"), i.removeClass("disable-hover"), t()
                             }
                         }, "ease")
                     }
+
                     function r() {
                         i.addClass("disable-hover"),
-                            i.stop(!0, !0).animate(
-                                {
-                                    rotatedeg: p.deg += p.step
+                            i.stop(!0, !0).animate({
+                                rotatedeg: p.deg += p.step
+                            }, {
+                                duration: 400,
+                                step: function(t) {
+                                    t >= 360 ? t -= 360 : t <= -360 && (t += 360),
+                                        e(this).css("transform", "rotate(" + t + "deg)"),
+                                        e(this).css("-webkit-transform", "rotate(" + t + "deg)")
                                 },
-                                {
-                                    duration: 400,
-                                    step: function (t) {
-                                        t >= 360 ? t -= 360 : t <= -360 && (t += 360),
-                                            e(this).css("transform", "rotate(" + t + "deg)"),
-                                            e(this).css("-webkit-transform", "rotate(" + t + "deg)")
-                                    },
-                                    complete: function () {
-                                        p.active = i.find("li.active"),
-                                            i.is(":animated"),
-                                            i.removeClass("disable-hover")
-                                    }
-                                }, "ease")
+                                complete: function() {
+                                    p.active = i.find("li.active"),
+                                        i.is(":animated"),
+                                        i.removeClass("disable-hover")
+                                }
+                            }, "ease")
                     }
                     var i = e(this),
                         s = i.find("li").length,
@@ -1149,7 +1049,7 @@
                     i.find("> li").first().addClass("active"),
                         i.find("> li").first().find("a").attr("href"),
                         c.eq(0).addClass("active"),
-                        e(a).on("click", function () {
+                        e(a).on("click", function() {
                             var n = e(this).parent().index() - i.find("li.active").index();
                             i.children("li").removeClass("active"),
                                 e(this).parent().addClass("active"),
@@ -1159,17 +1059,18 @@
                         });
                     var f = i.parent().find("div.next"),
                         h = i.parent().find("div.prev");
-                    f.on("click", function () {
+                    f.on("click", function() {
                         i.is(":animated") || (p.direction = "left", p.step = u, o())
-                    }), h.on("click", function () {
+                    }), h.on("click", function() {
                         i.is(":animated") || (p.direction = "right", p.step = d, o())
                     })
                 })
             }
         }(jQuery));
-        $(function () {
+        $(function() {
             setInterval(displayHello, 1500);
             var a = 1;
+
             function displayHello() {
                 if (a == 1) {
                     $('#animate1').html('<span class="d-block d-lg-none d-md-none"><img src="./images/efficient.png" alt=""></span><br><p class="mb-0 text-dark font-w-600">Trip to Thailand</p><p class="feature-font text-dark">Celebrate your campaign success with an amazing getaway to Thailand, where vibrant cities, stunning beaches, and rich cultural experiences await— the perfect reward for all your hard work!.</p>')
@@ -1192,18 +1093,19 @@
                 }
             }
             //*========Background image
-            $('div').each(function () {
+            $('div').each(function() {
                 var url = $(this).attr('data-image');
                 if (url) {
                     $(this).css('background-image', 'url(' + url + ')');
                 }
             });
-            $('section').each(function () {
+            $('section').each(function() {
                 var url = $(this).attr('data-image');
                 if (url) {
                     $(this).css('background-image', 'url(' + url + ')');
                 }
             });
+
             function autoHeightCircle() {
                 var circle = $('.circle--rotate'),
                     circleInner = $('.animate-wrapper'),
@@ -1214,7 +1116,7 @@
             }
             $("#circle--rotate").circle();
             autoHeightCircle();
-            $(window).resize(function () {
+            $(window).resize(function() {
                 autoHeightCircle();
             });
         });
