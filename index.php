@@ -275,12 +275,12 @@
                                                                         <img src="./images/eco-energy.png" alt=""
                                                                             class="mb-3 img-fluid">
                                                                     </span>
-                                                                    <p class="mb-0 text-dark font-w-600">Unlock Up to ₹1
+                                                                    <p class="mb-0 text-dark font-w-600">Unlock Up to ৳ 1
                                                                         Lakh in Cash Discounts!
                                                                     </p>
                                                                     <p class="feature-font text-dark">
                                                                         As a thank you for your outstanding efforts in
-                                                                        our campaign, we’re offering up to ₹1 lakh in
+                                                                        our campaign, we’re offering up to ৳ 1 lakh in
                                                                         cash discounts. Take advantage of this exclusive
                                                                         reward and enjoy significant savings on your
                                                                         next purchase. Act now and make the most of this
@@ -515,9 +515,8 @@
                                 <h2 class="large-heading text-uppercase" style="color: #000;"><span>Pick Your
                                         Dream</span> Car </h2>
                                 <p>
-                                    Looking for a fast, fun, and exciting way to score your dream ride? Our Scratch and
-                                    Win campaign lets you do just that! Imagine winning the keys to the car you’ve
-                                    always wanted—all it takes is a little luck.
+                                    Your Very Own Treasure Chest!
+                                    Drive away in your dream car loaded with a treasure trove of prizes! All it takes is a Tiggo 8 Pro!
                                 </p>
                             </div>
                         </div>
@@ -596,10 +595,10 @@
                                         <img src="./images/traffic-light.png" alt="" class="img-fluid">
                                     </div>
                                     <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Unlock Up to ₹1 Lakh in Cash Discounts!</p>
+                                        <p class='title mb-0 head'>Unlock Up to ৳ 1 Lakh in Cash Discounts!</p>
                                         <p>
                                             As a thank you for your outstanding efforts in our campaign, we’re offering
-                                            up to ₹1 lakh in cash discounts. Take advantage of this exclusive reward and
+                                            up to ৳ 1 lakh in cash discounts. Take advantage of this exclusive reward and
                                             enjoy significant savings on your next purchase. Act now and make the most
                                             of this limited-time offer!
                                         </p>
@@ -637,10 +636,10 @@
                                         <img src="./images/traffic-light.png" alt="" class="img-fluid">
                                     </div>
                                     <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Unlock Up to ₹1 Lakh in Cash Discounts!</p>
+                                        <p class='title mb-0 head'>Unlock Up to ৳ 1 Lakh in Cash Discounts!</p>
                                         <p>
                                             As a thank you for your outstanding efforts in our campaign, we’re offering
-                                            up to ₹1 lakh in cash discounts. Take advantage of this exclusive reward and
+                                            up to ৳ 1 lakh in cash discounts. Take advantage of this exclusive reward and
                                             enjoy significant savings on your next purchase. Act now and make the most
                                             of this limited-time offer!
                                         </p>
@@ -679,10 +678,10 @@
                                         <img src="./images/traffic-light.png" alt="" class="img-fluid">
                                     </div>
                                     <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Unlock Up to ₹1 Lakh in Cash Discounts!</p>
+                                        <p class='title mb-0 head'>Unlock Up to ৳ 1 Lakh in Cash Discounts!</p>
                                         <p>
                                             As a thank you for your outstanding efforts in our campaign, we’re offering
-                                            up to ₹1 lakh in cash discounts. Take advantage of this exclusive reward and
+                                            up to ৳ 1 lakh in cash discounts. Take advantage of this exclusive reward and
                                             enjoy significant savings on your next purchase. Act now and make the most
                                             of this limited-time offer!
                                         </p>
@@ -718,10 +717,10 @@
                                         <img src="./images/traffic-light.png" alt="" class="img-fluid">
                                     </div>
                                     <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Unlock Up to ₹1 Lakh in Cash Discounts!</p>
+                                        <p class='title mb-0 head'>Unlock Up to ৳ 1 Lakh in Cash Discounts!</p>
                                         <p>
                                             As a thank you for your outstanding efforts in our campaign, we’re offering
-                                            up to ₹1 lakh in cash discounts. Take advantage of this exclusive reward and
+                                            up to ৳ 1 lakh in cash discounts. Take advantage of this exclusive reward and
                                             enjoy significant savings on your next purchase. Act now and make the most
                                             of this limited-time offer!
                                         </p>
