@@ -290,7 +290,7 @@ header.fixed{position:fixed; background:rgba(255,255,255,1); top: 0; left: 0; z-
 	100% {opacity:1; transform: translateY(0);} 
 }
 .logo { padding-top:20px; padding-bottom:20px;  }
-.logo img{max-height:48px; display: block;}
+.logo img{max-height:48px; max-width: 200px; display: block;}
 .logo img.regular-logo{display:block; }
 .logo img.sticky-logo{display:none; }
 header.fixed .logo img.regular-logo{display:none; }
