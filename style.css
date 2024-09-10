@@ -1647,14 +1647,14 @@ right:10px;
 
 @media (max-width: 600px) {
   .blink img {
-      max-width: 150px; 
+      max-width: 80px; 
       min-width: 80px;  
   }
 }
 
 @media (max-width: 400px) {
   .blink img {
-      max-width: 120px; 
+      max-width: 60px; 
       min-width: 60px;  
   }
 
