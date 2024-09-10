@@ -219,6 +219,36 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 8px 15px;}
 }
 
 
+
+@media (max-width: 768px) {
+  .btn {
+      padding: 0.75rem 1rem;
+      font-size: 0.875rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .btn-wrapper {
+      flex-direction: column;
+      gap: 1rem;
+      justify-content: center;
+      align-items: center;
+  }
+
+  .btn {
+      width: 100%;
+      max-width: 300px;
+      padding: 0.5rem 0.75rem;
+      font-size: 0.875rem;
+  }
+  
+  .btn i {
+      font-size: 0.75rem;
+  }
+}
+
+
+
 .scroll-to{position:absolute; bottom:30px; height:auto; right:calc((100% - 1490px) / 2);}
 .scroll-to a{position:relative; display:block; color:var(--black-color); font-weight:bold;  }
 .scroll-to i{background:#ffffff; height:36px; width:36px; -webkit-border-radius:50%; border-radius:50%; border:2px solid var(--main-color); line-height:32px; color:var(--main-color); text-align:center; animation: jumparrow 2s infinite;  }
