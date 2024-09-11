@@ -380,6 +380,71 @@
                 </div>
             </section>
             <!--* Features Section End -->
+            <!-- feature Section Start -->
+            <section id="feature" class="feature-section black-bg light-text">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="heading-wrapper text-center">
+                                <h2 class="large-heading text-uppercase"><span>Smart</span>feature</h2>
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="features-box">
+                                <div class="feature-ico">
+                                    <img src="images/rim-icon.png" alt="">
+                                </div>
+                                <h4>More Powerfull RIM</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p>
+                            </div>
+                            <div class="features-box">
+                                <div class="feature-ico">
+                                    <img src="images/engine-icon.png" alt="">
+                                </div>
+                                <h4>More Powerfull Engine</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p>
+                            </div>
+                            <div class="features-box">
+                                <div class="feature-ico">
+                                    <img src="images/shock-icon.png" alt="">
+                                </div>
+                                <h4>All New Suspension</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4">
+                            <div class="features-box">
+                                <div class="feature-ico">
+                                    <img src="images/chasis-icon.png" alt="">
+                                </div>
+                                <h4>Powerfull Chasis</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p>
+                            </div>
+                            <div class="features-box">
+                                <div class="feature-ico">
+                                    <img src="images/break-icon.png" alt="">
+                                </div>
+                                <h4>All New Brakes</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p>
+                            </div>
+                            <div class="features-box">
+                                <div class="feature-ico">
+                                    <img src="images/speedometer-icon.png" alt="">
+                                </div>
+                                <h4>Digital Speedometer</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="circle-animation wow fadeIn" data-wow-duration="1s" data-wow-delay="1s"></div>
+                            <div class="features-middle-img wow fadeInUpBig" data-wow-duration="2s">
+                                <img src="images/motorcycle-features-img.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
             <!-- Features Section Start -->
             <section id="feature-choose" class="features-section gray-bg">
                 <div class="section-background">
