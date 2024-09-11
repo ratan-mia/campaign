@@ -609,6 +609,7 @@
                                 </audio>
                             </div>
                             <div class='d-block d-lg-none d-md-none d-sm-none'>
+
                                 <div class='env_carousel__item'>
                                     <div class='carousel__item-head'>
                                         <img src="./images/zero-emission.png" alt="" class="img-fluid">
@@ -1112,7 +1113,7 @@
 
             function displayHello() {
                 if (a == 1) {
-                    $('#animate1').html('<span class="d-block d-lg-none d-md-none d-sm-none"><img src="./images/efficient.png" alt=""></span><br><p class="mb-0 text-dark font-w-600">Trip to Thailand</p><p class="feature-font text-dark">Celebrate your campaign success with an amazing getaway to Thailand, where vibrant cities, stunning beaches, and rich cultural experiences await— the perfect reward for all your hard work!.</p>')
+                    $('#animate1').html('<span class="d-block d-lg-none d-md-none"><img src="./images/efficient.png" alt=""></span><br><p class="mb-0 text-dark font-w-600">Trip to Thailand</p><p class="feature-font text-dark">Celebrate your campaign success with an amazing getaway to Thailand, where vibrant cities, stunning beaches, and rich cultural experiences await— the perfect reward for all your hard work!.</p>')
                 } else {
                     $('#animate1').html('')
                 }
