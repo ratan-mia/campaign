@@ -381,7 +381,7 @@
             </section>
             <!--* Features Section End -->
             <!-- feature Section Start -->
-            <!-- <section id="feature" class="feature-section black-bg light-text">
+            <section id="feature" class="feature-section black-bg light-text">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
@@ -392,7 +392,7 @@
                         <div class="col-lg-4">
                             <div class="circle-animation wow fadeIn" data-wow-duration="1s" data-wow-delay="1s"></div>
                             <div class="features-middle-img wow fadeInUpBig" data-wow-duration="2s">
-                                <img src="images/motorcycle-features-img.png" alt="">
+                                <img src="imagestiggo-8-pro-top.png" alt="">
                             </div>
                         </div>
                         <div class="col-lg-4">
@@ -445,7 +445,7 @@
 
                     </div>
                 </div>
-            </section> -->
+            </section>
             <!-- Features Section Start -->
             <section id="feature-choose" class="features-section gray-bg">
                 <div class="section-background">
