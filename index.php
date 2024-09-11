@@ -389,12 +389,7 @@
                                 <h2 class="large-heading text-uppercase"><span>Rewards</span>You Can Get</h2>
                             </div>
                         </div>
-                        <div class="col-lg-4">
-                            <div class="circle-animation wow fadeIn" data-wow-duration="1s" data-wow-delay="1s"></div>
-                            <div class="features-middle-img wow fadeInUpBig" data-wow-duration="2s">
-                                <img src="images/tiggo-8-pro-top.png" alt="">
-                            </div>
-                        </div>
+
                         <div class="col-lg-4">
                             <div class="features-box">
                                 <div class="feature-ico">
@@ -411,6 +406,12 @@
                                 <h4>Unlock Up to ৳ 1
                                     Lakh in Cash Discounts!</h4>
                                 <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p> -->
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="circle-animation wow fadeIn" data-wow-duration="1s" data-wow-delay="1s"></div>
+                            <div class="features-middle-img wow fadeInUpBig" data-wow-duration="2s">
+                                <img src="images/tiggo-8-pro-top.png" alt="">
                             </div>
                         </div>
 
