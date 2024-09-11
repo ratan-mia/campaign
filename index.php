@@ -392,7 +392,7 @@
                         <div class="col-lg-4">
                             <div class="circle-animation wow fadeIn" data-wow-duration="1s" data-wow-delay="1s"></div>
                             <div class="features-middle-img wow fadeInUpBig" data-wow-duration="2s">
-                                <img src="imagestiggo-8-pro-top.png" alt="">
+                                <img src="images/tiggo-8-pro-top.png" alt="">
                             </div>
                         </div>
                         <div class="col-lg-4">
