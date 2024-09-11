@@ -559,7 +559,7 @@
                             <div class="text-block text-lead">
                                 <h3 class="h1 fw-300">Your Test Drive Now</h3>
                                 <p>We are delighted to announce the launch of our biggest campaign of the year - The Scratch-&-Win Fiesta - with Chery Tiggo 8 Pro!</p>
-                                <p>Purchasing the Chery Tiggo 8 Pro will allow you to test your luck with a scratch card. Every customer is guaranteed a prize, and the rewards are fantastic! From an all-inclusive trip to Thailand to free registration and cash discounts up to 1 lac taka, every scratch card reveals something special! </p>
+                                <!-- <p>Purchasing the Chery Tiggo 8 Pro will allow you to test your luck with a scratch card. Every customer is guaranteed a prize, and the rewards are fantastic! From an all-inclusive trip to Thailand to free registration and cash discounts up to 1 lac taka, every scratch card reveals something special! </p> -->
 
                             </div>
                             <div class="row power-icon">
@@ -568,11 +568,11 @@
                                     <h4 class="icon-title text-uppercase">Air Ticket to Thailand</h4>
                                     <div class="icon-text">
                                         <p>
-                                            <span> Celebrate your campaign success with an
+                                            <!-- <span> Celebrate your campaign success with an
                                                 amazing getaway to Thailand! Enjoy
                                                 vibrant cities, stunning beaches, and
                                                 rich cultural experiences. It’s the
-                                                perfect reward for all your hard work!</span>
+                                                perfect reward for all your hard work!</span> -->
                                         </p>
                                     </div>
                                 </div>
@@ -581,7 +581,7 @@
                                     <h4 class="icon-title text-uppercase">Enjoy Free Registration as a Reward!</h4>
                                     <div class="icon-text">
 
-                                        <span>To celebrate the success of our recent campaign, we're thrilled to offer free registration for all participants. Sign up now and take advantage of this exclusive reward. Don’t miss out on this opportunity!</span>
+                                        <!-- <span>To celebrate the success of our recent campaign, we're thrilled to offer free registration for all participants. Sign up now and take advantage of this exclusive reward. Don’t miss out on this opportunity!</span> -->
                                     </div>
                                 </div>
                                 <div class="col">
@@ -590,12 +590,12 @@
                                         Lakh in Cash Discounts!</h4>
                                     <div class="icon-text">
 
-                                        <span> As a thank you for your outstanding efforts in
+                                        <!-- <span> As a thank you for your outstanding efforts in
                                             our campaign, we’re offering up to ৳ 1 lakh in
                                             cash discounts. Take advantage of this exclusive
                                             reward and enjoy significant savings on your
                                             next purchase. Act now and make the most of this
-                                            limited-time offer!</span>
+                                            limited-time offer!</span> -->
                                     </div>
                                 </div>
                             </div>
