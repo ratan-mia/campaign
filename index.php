@@ -386,7 +386,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="heading-wrapper text-center">
-                                <h2 class="large-heading text-uppercase"><span>Smart</span>feature</h2>
+                                <h2 class="large-heading text-uppercase"><span>Rewards</span>You Can Get</h2>
                             </div>
                         </div>
                         <div class="col-lg-4">
