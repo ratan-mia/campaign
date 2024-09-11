@@ -403,13 +403,7 @@
                                 <h4>Air Ticket to Thailand</h4>
                                 <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p> -->
                             </div>
-                            <div class="features-box">
-                                <div class="feature-ico">
-                                    <img src="images/free-registration.png" alt="">
-                                </div>
-                                <h4>Enjoy Free Registration as a Reward!</h4>
-                                <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p> -->
-                            </div>
+
                             <div class="features-box">
                                 <div class="feature-ico">
                                     <img src="images/cash-discount.png" alt="">
@@ -421,6 +415,13 @@
                         </div>
 
                         <div class="col-lg-4">
+                            <div class="features-box">
+                                <div class="feature-ico">
+                                    <img src="images/free-registration.png" alt="">
+                                </div>
+                                <h4>Enjoy Free Registration as a Reward!</h4>
+                                <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p> -->
+                            </div>
                             <!-- <div class="features-box">
                                 <div class="feature-ico">
                                     <img src="images/chasis-icon.png" alt="">
