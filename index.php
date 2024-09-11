@@ -564,7 +564,7 @@
                             </div>
                             <div class="row power-icon">
                                 <div class="col">
-                                    <div class="icon-img"><img src="images/MeximumPower-icon.png" alt=""></div>
+                                    <div class="icon-img"><img src="images/air-ticket.png" alt=""></div>
                                     <h4 class="icon-title text-uppercase">Air Ticket to Thailand</h4>
                                     <div class="icon-text">
                                         <p>
@@ -577,7 +577,7 @@
                                     </div>
                                 </div>
                                 <div class="col">
-                                    <div class="icon-img"><img src="images/speed-icon.png" alt=""></div>
+                                    <div class="icon-img"><img src="images/free-registration.png" alt=""></div>
                                     <h4 class="icon-title text-uppercase">Enjoy Free Registration as a Reward!</h4>
                                     <div class="icon-text">
 
@@ -585,7 +585,7 @@
                                     </div>
                                 </div>
                                 <div class="col">
-                                    <div class="icon-img"><img src="images/car-body-icon.png" alt=""></div>
+                                    <div class="icon-img"><img src="images/cash-discount.png" alt=""></div>
                                     <h4 class="icon-title text-uppercase">Unlock Up to ৳ 1
                                         Lakh in Cash Discounts!</h4>
                                     <div class="icon-text">
