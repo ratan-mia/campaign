@@ -381,7 +381,7 @@
             </section>
             <!--* Features Section End -->
             <!-- feature Section Start -->
-            <section id="feature" class="feature-section black-bg light-text">
+            <!-- <section id="feature" class="feature-section black-bg light-text">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
@@ -445,7 +445,7 @@
 
                     </div>
                 </div>
-            </section>
+            </section> -->
             <!-- Features Section Start -->
             <section id="feature-choose" class="features-section gray-bg">
                 <div class="section-background">
