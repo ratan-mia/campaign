@@ -190,25 +190,26 @@
                                                         <p class="icon-text">3.Cash Discount (up to 1 lac)</p>
                                                     </div>
                                                 </li>
-                                                <!-- <li class="block4">
+                                                <li class="block4">
                                                     <div class="icon icon4">
-                                                        <img src="./images/3. Free Service.png" alt=""
-                                                            class="img-fluid">
-                                                        <p class="icon-text">4.2-additional service</p>
+                                                        <img src="./images/1. Trip to thailand.png" alt=""
+                                                            class="img-fluid ">
+                                                        <p class="icon-text">1.Trip to Thailand</p>
                                                     </div>
                                                 </li>
                                                 <li class="block5">
                                                     <div class="icon icon5">
-                                                        <img src="./images/pedal.png" alt="" class="img-fluid">
-                                                        <p class="icon-text">5.Referral for rewards</p>
+                                                        <img src="./images/2. Free registratin.png" alt=""
+                                                            class="img-fluid">
+                                                        <p class="icon-text">2.Free Registration</p>
                                                     </div>
                                                 </li>
                                                 <li class="block6">
                                                     <div class="icon icon6">
-                                                        <img src="./images/sync.png" alt="" class="img-fluid">
-                                                        <p class="icon-text">6.And Many More ...</p>
+                                                        <img src="./images/cashback.png" alt="" class="img-fluid">
+                                                        <p class="icon-text">3.Cash Discount (up to 1 lac)</p>
                                                     </div>
-                                                </li> -->
+                                                </li>
                                             </ul>
                                             <div class="animate-wrapper">
                                                 <div class="animate animate1 ">
@@ -292,7 +293,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <!-- <div class="animate animate4">
+                                            <div class="animate animate4">
                                                 <div class="animate-img">
                                                     <div class="animate-img__in" data-image="">
                                                         <div class="animate-more">
@@ -302,20 +303,22 @@
                                                                         <img src="./images/weight.png" alt=""
                                                                             class="mb-3 img-fluid">
                                                                     </span>
-                                                                    <p class="mb-0 text-dark font-w-600">Get 2 Free
-                                                                        Additional Services!</p>
+                                                                    <p class="mb-0 text-dark font-w-600">
+                                                                        Trip to Thailand</p>
                                                                     <p class="feature-font text-dark">
-                                                                        As a reward for your campaign success, enjoy 2
-                                                                        extra services at no charge. Don’t miss out on
-                                                                        this special offer!
+                                                                        Celebrate your campaign success with an
+                                                                        amazing getaway to Thailand! Enjoy
+                                                                        vibrant cities, stunning beaches, and
+                                                                        rich cultural experiences. It’s the
+                                                                        perfect reward for all your hard work!
                                                                     </p>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </div> -->
-                                            <!-- <div class="animate animate5">
+                                            </div>
+                                            <div class="animate animate5">
                                                 <div class="animate-img">
                                                     <div class="animate-img__in" data-image="">
                                                         <div class="animate-more">
@@ -325,21 +328,23 @@
                                                                         <img src="./images/pedal.png" alt=""
                                                                             class="mb-3 img-fluid">
                                                                     </span>
-                                                                    <p class="mb-0 text-dark font-w-600">Refer and Reap
-                                                                        Rewards!</p>
+                                                                    <p class="mb-0 text-dark font-w-600">Enjoy Free
+                                                                        Registration as a Reward!
+                                                                    </p>
                                                                     <p class="feature-font text-dark">
-                                                                        Refer friends and earn exciting rewards as a
-                                                                        thank you for your campaign efforts. The more
-                                                                        you refer, the more you gain. Start referring
-                                                                        today and enjoy your rewards!
+                                                                        To celebrate the success of our recent campaign,
+                                                                        we're thrilled to offer free registration for
+                                                                        all participants. Sign up now and take advantage
+                                                                        of this exclusive reward. Don’t miss out on this
+                                                                        opportunity!
                                                                     </p>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </div> -->
-                                            <!-- <div class="animate animate6">
+                                            </div>
+                                            <div class="animate animate6">
                                                 <div class="animate-img">
                                                     <div class="animate-img__in" data-image="">
                                                         <div class="animate-more">
@@ -349,19 +354,23 @@
                                                                         <img src="./images/sync.png" alt=""
                                                                             class="mb-3 img-fluid">
                                                                     </span>
-                                                                    <p class="mb-0 text-dark font-w-600">And Many
-                                                                        More...</p>
+                                                                    <p class="mb-0 text-dark font-w-600">Unlock Up to ৳ 1
+                                                                        Lakh in Cash Discounts!
+                                                                    </p>
                                                                     <p class="feature-font text-dark">
-                                                                        Visit our showroom today, explore the elegance
-                                                                        of the Tiggo 8 Pro, and test your
-                                                                        luck with our prestigious scratch card campaign.
+                                                                        As a thank you for your outstanding efforts in
+                                                                        our campaign, we’re offering up to ৳ 1 lakh in
+                                                                        cash discounts. Take advantage of this exclusive
+                                                                        reward and enjoy significant savings on your
+                                                                        next purchase. Act now and make the most of this
+                                                                        limited-time offer!
                                                                     </p>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </div> -->
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
