@@ -823,6 +823,60 @@
                 </div>
             </section>
             <!--* Enviornment impact section end -->
+            <!-- Power Section Start -->
+            <section id="engine" class="power-section black-bg light-text">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-md-12">
+                            <div class="heading-wrapper m-bot-0">
+                                <h2 class="large-heading text-uppercase m-bot-0">Powerful</h2>
+                            </div>
+                            <div class="text-block text-lead">
+                                <h3 class="h1 fw-300">Handcrafted Engine</h3>
+                                <p>GLA999 comes with 999 horsepower motor. The Engine will get up to speed of 180 mph in seconds.</p>
+                            </div>
+                            <div class="row power-icon">
+                                <div class="col">
+                                    <div class="icon-img"><img src="images/MeximumPower-icon.png" alt=""></div>
+                                    <h4 class="icon-title text-uppercase">Maximum Power</h4>
+                                    <div class="icon-text">
+                                        419 KW(570 CV)
+                                        <span>at 9000 rpm</span>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="icon-img"><img src="images/speed-icon.png" alt=""></div>
+                                    <h4 class="icon-title text-uppercase">Acceleration 0-60km/h</h4>
+                                    <div class="icon-text">
+                                        3.4 SEC
+                                        <span>0-60km/h</span>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="icon-img"><img src="images/car-body-icon.png" alt=""></div>
+                                    <h4 class="icon-title text-uppercase">Body</h4>
+                                    <div class="icon-text">
+                                        Retractable
+                                        <span>Hard-top</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-12 text-center">
+                            <div class="image-wrapper">
+                                <img src="images/car-engine.png" alt="" class="engine-ico" />
+                                <audio controls id="audio">
+                                    <source src="audio/carstartgarage.ogg" type="audio/wav">
+                                    <source src="audio/carstartgarage.mp3" type="audio/mpeg">
+                                </audio>
+                            </div>
+                            <div class="btn-wrapper start-engine m-top-30">
+                                <a href="#" class="btn btn-primary btn-accent has-icon"><span>Start the Engine</span><i class="fas fa-volume-up"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
             <!--* Dealer Section start -->
             <section id="dealer" class="dealer-section light-gray-bg">
