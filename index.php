@@ -381,7 +381,7 @@
             </section>
             <!--* Features Section End -->
             <!-- Features Section Start -->
-            <section id="feature" class="features-section gray-bg">
+            <section id="feature-choose" class="features-section gray-bg">
                 <div class="section-background">
                     <div class="background-wrapper">
                         <div class="background-inner"
