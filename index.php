@@ -564,7 +564,7 @@
                             </div>
                             <div class="row power-icon">
                                 <div class="col">
-                                    <div class="icon-img"><img src="images/air-ticket.png" alt=""></div>
+                                    <div class="icon-img"><img src="images/thailand-ticket.png" alt=""></div>
                                     <h4 class="icon-title text-uppercase">Air Ticket to Thailand</h4>
                                     <div class="icon-text">
                                         <p>
