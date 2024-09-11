@@ -548,316 +548,54 @@
                 </div>
             </section>
             <!--* Variation Section end -->
-
-            <!--* Enviornment impact section start -->
-            <section id="impact" class="gallery-section  light-text"
-                style="position: relative;background-color: #000; background-repeat: no-repeat;background-position: bottom; background-size:cover;">
-                <div class="container">
-                    <div class="row" style="position: relative;">
-                        <div class="my-lg-5 col-lg-6 col-md-5 col-12 bicycle-img">
-                            <div class="heading-wrapper text-left">
-                                <h2 class="large-heading text-uppercase" style="color: #fff;">
-                                    <span>Book</span>Your Test Drive Now!
-                                </h2>
-                                <p style="color: #fff;" class="mb-0 pt-3">
-                                    We are delighted to announce the launch of our biggest campaign of the year - The
-                                    Scratch-&-Win Fiesta - with Chery Tiggo 8 Pro!
-                                </p>
-                                <br>
-                                <p style="color: #fff;" class="mb-0">
-                                    Purchasing the Chery Tiggo 8 Pro will allow you to test your luck with a scratch
-                                    card. Every customer is guaranteed a prize, and the rewards are fantastic! From an
-                                    all-inclusive trip to Thailand to free registration and cash discounts up to 1 lac
-                                    taka, every scratch card reveals something special!
-                                </p>
-                            </div>
-                        </div>
-                        <div class='wrapper1 col-lg-6 col-md-7 col-12'>
-                            <div class='carousel env-carousel owl-theme d-none d-lg-block d-md-block'>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/zero-emission.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Reward Yourself with a Trip to Thailand!</p>
-                                        <p>
-                                            Celebrate your campaign success with an amazing getaway to Thailand! Enjoy
-                                            vibrant cities, stunning beaches, and rich cultural experiences. It’s the
-                                            perfect reward for all your hard work!
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/energy-saving.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Enjoy Free Registration as a Reward! </p>
-                                        <p>To celebrate the success of our recent campaign, we're thrilled to offer free
-                                            registration for all participants. Sign up now and take advantage of this
-                                            exclusive reward. Don’t miss out on this opportunity!
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/traffic-light.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Unlock Up to ৳ 1 Lakh in Cash Discounts!</p>
-                                        <p>
-                                            As a thank you for your outstanding efforts in our campaign, we’re offering
-                                            up to ৳ 1 lakh in cash discounts. Take advantage of this exclusive reward and
-                                            enjoy significant savings on your next purchase. Act now and make the most
-                                            of this limited-time offer!
-                                        </p>
-                                    </div>
-                                </div>
-
-
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/zero-emission.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Reward Yourself with a Trip to Thailand!</p>
-                                        <p>
-                                            Celebrate your campaign success with an amazing getaway to Thailand! Enjoy
-                                            vibrant cities, stunning beaches, and rich cultural experiences. It’s the
-                                            perfect reward for all your hard work!
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/energy-saving.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Enjoy Free Registration as a Reward! </p>
-                                        <p>To celebrate the success of our recent campaign, we're thrilled to offer free
-                                            registration for all participants. Sign up now and take advantage of this
-                                            exclusive reward. Don’t miss out on this opportunity!
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/traffic-light.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Unlock Up to ৳ 1 Lakh in Cash Discounts!</p>
-                                        <p>
-                                            As a thank you for your outstanding efforts in our campaign, we’re offering
-                                            up to ৳ 1 lakh in cash discounts. Take advantage of this exclusive reward and
-                                            enjoy significant savings on your next purchase. Act now and make the most
-                                            of this limited-time offer!
-                                        </p>
-                                    </div>
-                                </div>
-
-                            </div>
-                            <div class='d-block d-lg-none d-md-none'>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/zero-emission.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Reward Yourself with a Trip to Thailand!</p>
-                                        <p>
-                                            Celebrate your campaign success with an amazing getaway to Thailand! Enjoy
-                                            vibrant cities, stunning beaches, and rich cultural experiences. It’s the
-                                            perfect reward for all your hard work!
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/energy-saving.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Enjoy Free Registration as a Reward! </p>
-                                        <p>To celebrate the success of our recent campaign, we're thrilled to offer free
-                                            registration for all participants. Sign up now and take advantage of this
-                                            exclusive reward. Don’t miss out on this opportunity!
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/traffic-light.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Unlock Up to ৳ 1 Lakh in Cash Discounts!</p>
-                                        <p>
-                                            As a thank you for your outstanding efforts in our campaign, we’re offering
-                                            up to ৳ 1 lakh in cash discounts. Take advantage of this exclusive reward and
-                                            enjoy significant savings on your next purchase. Act now and make the most
-                                            of this limited-time offer!
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/zero-emission.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Reward Yourself with a Trip to Thailand!</p>
-                                        <p>
-                                            Celebrate your campaign success with an amazing getaway to Thailand! Enjoy
-                                            vibrant cities, stunning beaches, and rich cultural experiences. It’s the
-                                            perfect reward for all your hard work!
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/energy-saving.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Enjoy Free Registration as a Reward! </p>
-                                        <p>To celebrate the success of our recent campaign, we're thrilled to offer free
-                                            registration for all participants. Sign up now and take advantage of this
-                                            exclusive reward. Don’t miss out on this opportunity!
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/traffic-light.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Unlock Up to ৳ 1 Lakh in Cash Discounts!</p>
-                                        <p>
-                                            As a thank you for your outstanding efforts in our campaign, we’re offering
-                                            up to ৳ 1 lakh in cash discounts. Take advantage of this exclusive reward and
-                                            enjoy significant savings on your next purchase. Act now and make the most
-                                            of this limited-time offer!
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/zero-emission.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Reward Yourself with a Trip to Thailand!</p>
-                                        <p>
-                                            Celebrate your campaign success with an amazing getaway to Thailand! Enjoy
-                                            vibrant cities, stunning beaches, and rich cultural experiences. It’s the
-                                            perfect reward for all your hard work!
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/energy-saving.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Enjoy Free Registration as a Reward! </p>
-                                        <p>To celebrate the success of our recent campaign, we're thrilled to offer free
-                                            registration for all participants. Sign up now and take advantage of this
-                                            exclusive reward. Don’t miss out on this opportunity!
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/traffic-light.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Unlock Up to ৳ 1 Lakh in Cash Discounts!</p>
-                                        <p>
-                                            As a thank you for your outstanding efforts in our campaign, we’re offering
-                                            up to ৳ 1 lakh in cash discounts. Take advantage of this exclusive reward and
-                                            enjoy significant savings on your next purchase. Act now and make the most
-                                            of this limited-time offer!
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/zero-emission.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Reward Yourself with a Trip to Thailand!</p>
-                                        <p>
-                                            Celebrate your campaign success with an amazing getaway to Thailand! Enjoy
-                                            vibrant cities, stunning beaches, and rich cultural experiences. It’s the
-                                            perfect reward for all your hard work!
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/energy-saving.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Enjoy Free Registration as a Reward! </p>
-                                        <p>To celebrate the success of our recent campaign, we're thrilled to offer free
-                                            registration for all participants. Sign up now and take advantage of this
-                                            exclusive reward. Don’t miss out on this opportunity!
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class='env_carousel__item'>
-                                    <div class='carousel__item-head'>
-                                        <img src="./images/traffic-light.png" alt="" class="img-fluid">
-                                    </div>
-                                    <div class='carousel__item-body'>
-                                        <p class='title mb-0 head'>Unlock Up to ৳ 1 Lakh in Cash Discounts!</p>
-                                        <p>
-                                            As a thank you for your outstanding efforts in our campaign, we’re offering
-                                            up to ৳ 1 lakh in cash discounts. Take advantage of this exclusive reward and
-                                            enjoy significant savings on your next purchase. Act now and make the most
-                                            of this limited-time offer!
-                                        </p>
-                                    </div>
-                                </div>
-
-
-
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!--* Enviornment impact section end -->
             <!-- Power Section Start -->
             <section id="engine" class="power-section black-bg light-text">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-8 col-md-12">
                             <div class="heading-wrapper m-bot-0">
-                                <h2 class="large-heading text-uppercase m-bot-0">Powerful</h2>
+                                <h2 class="large-heading text-uppercase m-bot-0">Book</h2>
                             </div>
                             <div class="text-block text-lead">
-                                <h3 class="h1 fw-300">Handcrafted Engine</h3>
-                                <p>GLA999 comes with 999 horsepower motor. The Engine will get up to speed of 180 mph in seconds.</p>
+                                <h3 class="h1 fw-300">Your Test Drive Now</h3>
+                                <p>We are delighted to announce the launch of our biggest campaign of the year - The Scratch-&-Win Fiesta - with Chery Tiggo 8 Pro!</p>
+                                <p>Purchasing the Chery Tiggo 8 Pro will allow you to test your luck with a scratch card. Every customer is guaranteed a prize, and the rewards are fantastic! From an all-inclusive trip to Thailand to free registration and cash discounts up to 1 lac taka, every scratch card reveals something special! </p>
+
                             </div>
                             <div class="row power-icon">
                                 <div class="col">
                                     <div class="icon-img"><img src="images/MeximumPower-icon.png" alt=""></div>
-                                    <h4 class="icon-title text-uppercase">Maximum Power</h4>
+                                    <h4 class="icon-title text-uppercase">Air Ticket to Thailand</h4>
                                     <div class="icon-text">
-                                        419 KW(570 CV)
-                                        <span>at 9000 rpm</span>
+                                        <p>
+                                            <span> Celebrate your campaign success with an
+                                                amazing getaway to Thailand! Enjoy
+                                                vibrant cities, stunning beaches, and
+                                                rich cultural experiences. It’s the
+                                                perfect reward for all your hard work!</span>
+                                        </p>
                                     </div>
                                 </div>
                                 <div class="col">
                                     <div class="icon-img"><img src="images/speed-icon.png" alt=""></div>
-                                    <h4 class="icon-title text-uppercase">Acceleration 0-60km/h</h4>
+                                    <h4 class="icon-title text-uppercase">Enjoy Free Registration as a Reward!</h4>
                                     <div class="icon-text">
-                                        3.4 SEC
-                                        <span>0-60km/h</span>
+
+                                        <span>To celebrate the success of our recent campaign, we're thrilled to offer free registration for all participants. Sign up now and take advantage of this exclusive reward. Don’t miss out on this opportunity!</span>
                                     </div>
                                 </div>
                                 <div class="col">
                                     <div class="icon-img"><img src="images/car-body-icon.png" alt=""></div>
-                                    <h4 class="icon-title text-uppercase">Body</h4>
+                                    <h4 class="icon-title text-uppercase">Unlock Up to ৳ 1
+                                        Lakh in Cash Discounts!</h4>
                                     <div class="icon-text">
-                                        Retractable
-                                        <span>Hard-top</span>
+
+                                        <span> As a thank you for your outstanding efforts in
+                                            our campaign, we’re offering up to ৳ 1 lakh in
+                                            cash discounts. Take advantage of this exclusive
+                                            reward and enjoy significant savings on your
+                                            next purchase. Act now and make the most of this
+                                            limited-time offer!</span>
                                     </div>
                                 </div>
                             </div>
