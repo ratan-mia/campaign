@@ -726,6 +726,86 @@
                                         </p>
                                     </div>
                                 </div>
+                                <div class='env_carousel__item'>
+                                    <div class='carousel__item-head'>
+                                        <img src="./images/zero-emission.png" alt="" class="img-fluid">
+                                    </div>
+                                    <div class='carousel__item-body'>
+                                        <p class='title mb-0 head'>Reward Yourself with a Trip to Thailand!</p>
+                                        <p>
+                                            Celebrate your campaign success with an amazing getaway to Thailand! Enjoy
+                                            vibrant cities, stunning beaches, and rich cultural experiences. It’s the
+                                            perfect reward for all your hard work!
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class='env_carousel__item'>
+                                    <div class='carousel__item-head'>
+                                        <img src="./images/energy-saving.png" alt="" class="img-fluid">
+                                    </div>
+                                    <div class='carousel__item-body'>
+                                        <p class='title mb-0 head'>Enjoy Free Registration as a Reward! </p>
+                                        <p>To celebrate the success of our recent campaign, we're thrilled to offer free
+                                            registration for all participants. Sign up now and take advantage of this
+                                            exclusive reward. Don’t miss out on this opportunity!
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class='env_carousel__item'>
+                                    <div class='carousel__item-head'>
+                                        <img src="./images/traffic-light.png" alt="" class="img-fluid">
+                                    </div>
+                                    <div class='carousel__item-body'>
+                                        <p class='title mb-0 head'>Unlock Up to ৳ 1 Lakh in Cash Discounts!</p>
+                                        <p>
+                                            As a thank you for your outstanding efforts in our campaign, we’re offering
+                                            up to ৳ 1 lakh in cash discounts. Take advantage of this exclusive reward and
+                                            enjoy significant savings on your next purchase. Act now and make the most
+                                            of this limited-time offer!
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class='env_carousel__item'>
+                                    <div class='carousel__item-head'>
+                                        <img src="./images/zero-emission.png" alt="" class="img-fluid">
+                                    </div>
+                                    <div class='carousel__item-body'>
+                                        <p class='title mb-0 head'>Reward Yourself with a Trip to Thailand!</p>
+                                        <p>
+                                            Celebrate your campaign success with an amazing getaway to Thailand! Enjoy
+                                            vibrant cities, stunning beaches, and rich cultural experiences. It’s the
+                                            perfect reward for all your hard work!
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class='env_carousel__item'>
+                                    <div class='carousel__item-head'>
+                                        <img src="./images/energy-saving.png" alt="" class="img-fluid">
+                                    </div>
+                                    <div class='carousel__item-body'>
+                                        <p class='title mb-0 head'>Enjoy Free Registration as a Reward! </p>
+                                        <p>To celebrate the success of our recent campaign, we're thrilled to offer free
+                                            registration for all participants. Sign up now and take advantage of this
+                                            exclusive reward. Don’t miss out on this opportunity!
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class='env_carousel__item'>
+                                    <div class='carousel__item-head'>
+                                        <img src="./images/traffic-light.png" alt="" class="img-fluid">
+                                    </div>
+                                    <div class='carousel__item-body'>
+                                        <p class='title mb-0 head'>Unlock Up to ৳ 1 Lakh in Cash Discounts!</p>
+                                        <p>
+                                            As a thank you for your outstanding efforts in our campaign, we’re offering
+                                            up to ৳ 1 lakh in cash discounts. Take advantage of this exclusive reward and
+                                            enjoy significant savings on your next purchase. Act now and make the most
+                                            of this limited-time offer!
+                                        </p>
+                                    </div>
+                                </div>
+
+
 
 
                             </div>
