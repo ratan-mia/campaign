@@ -145,6 +145,8 @@
             </section>
             <!--* Hero Section End -->
             <!--* Features Section Start -->
+
+
             <section id="feature-circle" class="features-section gray-bg" style="position: relative;">
                 <div class="section-background">
 
@@ -379,6 +381,8 @@
                     </div>
                 </div>
             </section>
+
+            ?>
             <!--* Features Section End -->
             <!-- Features Section Start -->
             <section id="feature" class="features-section gray-bg">
