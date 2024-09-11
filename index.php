@@ -172,14 +172,14 @@
                                             <ul class="circle--rotate" id="circle--rotate">
                                                 <li class="block1">
                                                     <div class="icon icon1">
-                                                        <img src="./images/1. Trip to thailand.png" alt=""
+                                                        <img src="./images/trip-to-thailand.png" alt=""
                                                             class="img-fluid ">
                                                         <p class="icon-text">1.Trip to Thailand</p>
                                                     </div>
                                                 </li>
                                                 <li class="block2">
                                                     <div class="icon icon2">
-                                                        <img src="./images/2. Free registratin.png" alt=""
+                                                        <img src="./images/free-registratin.png" alt=""
                                                             class="img-fluid">
                                                         <p class="icon-text">2.Free Registration</p>
                                                     </div>
@@ -192,14 +192,14 @@
                                                 </li>
                                                 <li class="block4">
                                                     <div class="icon icon4">
-                                                        <img src="./images/1. Trip to thailand.png" alt=""
+                                                        <img src="./images/trip-to-thailand.png" alt=""
                                                             class="img-fluid ">
                                                         <p class="icon-text">1.Trip to Thailand</p>
                                                     </div>
                                                 </li>
                                                 <li class="block5">
                                                     <div class="icon icon5">
-                                                        <img src="./images/2. Free registratin.png" alt=""
+                                                        <img src="./images/free-registratin.png" alt=""
                                                             class="img-fluid">
                                                         <p class="icon-text">2.Free Registration</p>
                                                     </div>
