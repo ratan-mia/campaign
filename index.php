@@ -145,7 +145,7 @@
             </section>
             <!--* Hero Section End -->
             <!--* Features Section Start -->
-            <section id="feature-with-banner" class="features-section gray-bg" style="position: relative;">
+            <!-- <section id="feature-with-banner" class="features-section gray-bg" style="position: relative;">
                 <div class="section-background">
 
                     <div class="background-wrapper">
@@ -378,7 +378,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
             <!--* Features Section End -->
             <!-- feature Section Start -->
             <section id="feature" class="feature-section black-bg light-text">
@@ -398,29 +398,30 @@
                         <div class="col-lg-4">
                             <div class="features-box">
                                 <div class="feature-ico">
-                                    <img src="images/rim-icon.png" alt="">
+                                    <img src="images/thailand-ticket.png" alt="">
                                 </div>
-                                <h4>More Powerfull RIM</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p>
+                                <h4>Air Ticket to Thailand</h4>
+                                <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p> -->
                             </div>
                             <div class="features-box">
                                 <div class="feature-ico">
-                                    <img src="images/engine-icon.png" alt="">
+                                    <img src="images/free-registration.png" alt="">
                                 </div>
-                                <h4>More Powerfull Engine</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p>
+                                <h4>Enjoy Free Registration as a Reward!</h4>
+                                <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p> -->
                             </div>
                             <div class="features-box">
                                 <div class="feature-ico">
-                                    <img src="images/shock-icon.png" alt="">
+                                    <img src="images/cash-discount.png" alt="">
                                 </div>
-                                <h4>All New Suspension</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p>
+                                <h4>Unlock Up to ৳ 1
+                                    Lakh in Cash Discounts!</h4>
+                                <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p> -->
                             </div>
                         </div>
 
                         <div class="col-lg-4">
-                            <div class="features-box">
+                            <!-- <div class="features-box">
                                 <div class="feature-ico">
                                     <img src="images/chasis-icon.png" alt="">
                                 </div>
@@ -440,7 +441,7 @@
                                 </div>
                                 <h4>Digital Speedometer</h4>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p>
-                            </div>
+                            </div> -->
                         </div>
 
                     </div>
