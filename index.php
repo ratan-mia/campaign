@@ -90,9 +90,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-3 logo">
-                        <a href="./intro/index.html" title="Wheels Bicycle">
-                            <img class="regular-logo img-fluid" src="./images/chery-logo.png" alt="bicycle">
-                            <img class="sticky-logo img-fluid" src="./images/chery-logo.png" alt="bicycle">
+                        <a href="index.php" title="Chery Bangladesh">
+                            <img class="regular-logo img-fluid" src="./images/chery-logo.png" alt="chery bangladesh">
+                            <img class="sticky-logo img-fluid" src="./images/chery-logo.png" alt="chery bangladesh">
                         </a>
                         <div class="menu-icon">
                             <span class="top"></span>
@@ -103,14 +103,14 @@
                     <div class="col-sm-9 menu-conainer">
                         <nav class="site-navigation">
                             <ul class="main-menu">
-                                <li><a href="index.html">Home</a></li>
+                                <li><a href="index.php">Home</a></li>
                                 <li><a href="https://cherybd.com/pages/tiggo-8-pro" target="_blank">Tiggo 8 Pro</a></li>
                                 <li><a href="https://cherybd.com/pages/introduction" target="_blank">About Chery</a>
                                 </li>
                                 <li><a href="https://cherybd.com/pages/chery-service-portal" target="_blank">Chery
                                         Service</a></li>
                                 <li><a href="#dealer">Find Showroom</a></li>
-                                <li><a href="#contact">Refer to a friend</a></li>
+                                <li><a href="#contact">Feedback</a></li>
                             </ul>
                             <ul class="header-social-media">
                                 <li><a href="https://www.facebook.com/CheryBDofficial" target="_blank"><i
@@ -150,7 +150,7 @@
                                     <span>Book my Chery</span>
                                     <i class="fas fa-arrow-right ms-2"></i>
                                 </a>
-                                <a class="btn btn-danger btn-accent d-flex align-items-center justify-content-center p-3 p-md-4 fs-6 fs-md-5"
+                                <a style="z-index:9;" class="btn btn-danger btn-accent d-flex align-items-center justify-content-center p-3 p-md-4 fs-6 fs-md-5"
                                     href="https://cherybd.com/pages/book-a-test-drive" target="_blank">
                                     <span>Book a test drive</span>
                                     <i class="fas fa-arrow-right ms-2"></i>
@@ -434,7 +434,7 @@
                                 <div class="feature-ico">
                                     <img src="images/thailand-ticket.png" alt="">
                                 </div>
-                                <h4>Air Ticket to Thailand</h4>
+                                <h4>Air Tickets to Thailand</h4>
                                 <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p> -->
                             </div>
 
@@ -442,7 +442,7 @@
                                 <div class="feature-ico">
                                     <img src="images/cash-discount.png" alt="">
                                 </div>
-                                <h4>Unlock Up to ৳ 1
+                                <h4>Up to ৳ 1
                                     Lakh in Cash Discounts!</h4>
                                 <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p> -->
                             </div>
@@ -459,7 +459,7 @@
                                 <div class="feature-ico">
                                     <img src="images/free-registration.png" alt="">
                                 </div>
-                                <h4>Enjoy Free Registration as a Reward!</h4>
+                                <h4>Free Registration</h4>
                                 <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p> -->
                             </div>
                             <!-- <div class="features-box">
@@ -501,7 +501,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="heading-wrapper text-center">
-                                <h2 class="large-heading text-uppercase"><span>Chery</span> Why Choose?</h2>
+                                <h2 class="large-heading text-uppercase"><span>Why Choose</span>Chery?</h2>
                             </div>
                         </div>
                     </div>
@@ -585,29 +585,24 @@
                                 <h2 class="large-heading text-uppercase"><span>Chery</span>Scratch-&-Win Fiesta</h2>
                             </div>
                             <div class="text-block">
-                                <p>
-                                    We are delighted to announce the launch of our biggest campaign of the year - The
-                                    Scratch-&-Win Fiesta - with Chery Tiggo 8 Pro!
-                                </p>
-                                <p>
-                                    Purchasing the Chery Tiggo 8 Pro will allow you to test your luck with a scratch
-                                    card. Every customer is guaranteed a prize, and the rewards are fantastic! From an
-                                    all-inclusive trip to Thailand to free registration and cash discounts up to 1 lac
-                                    taka, every scratch card reveals something special!
-                                </p>
-                                <p>
-                                    Don’t miss this opportunity to drive in style and win big. Elevate your journey and
-                                    discover what awaits!</p>
 
-                                <p>Visit our showroom today, explore the elegance of the Tiggo 8 Pro, and test your
-                                    luck with our prestigious scratch card campaign.
+                                <h1>Scratch-&-Win Fiesta</h1>
+                                <p>We are delighted to announce the launch of our biggest campaign of the year - <strong>The Scratch-&-Win Fiesta</strong> - with the Chery Tiggo 8 Pro!</p>
 
-                                </p>
+                                <p>Purchasing the Chery Tiggo 8 Pro will earn you the opportunity to test your luck with a scratch card. Every customer is guaranteed a prize, and the rewards are fantastic! From <span class="highlight">air tickets to Thailand</span> to free registration and cash discounts up to <span class="highlight">1 lac taka</span>, every scratch card reveals something special!</p>
+
+                                <p>Don’t miss this opportunity to drive in style and win big. Elevate your journey and discover what awaits!</p>
+
+                                <p>Visit our showroom today, explore the elegance of the Tiggo 8 Pro, and test your luck with our prestigious scratch card campaign.</p>
+
+
+
                             </div>
                             <div class="btn-wrapper">
-                                <a href="https://www.facebook.com/CheryBDofficial" class="btn btn-primary has-icon"
+
+                                <a href="https://cherybd.com/pages/book-a-test-drive" class="btn btn-primary has-icon"
                                     target="_blank">
-                                    <span>Learn More</span>
+                                    <span>Book a Test Drive</span>
                                     <i class="fas fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -673,7 +668,7 @@
                             <div class="row power-icon">
                                 <div class="col">
                                     <div class="icon-img"><img src="images/thailand-ticket.png" alt=""></div>
-                                    <h4 class="icon-title text-uppercase">Air Ticket to Thailand</h4>
+                                    <h4 class="icon-title text-uppercase">Air Tickets to Thailand</h4>
                                     <div class="icon-text">
                                         <p>
                                             <!-- <span> Celebrate your campaign success with an
@@ -686,7 +681,7 @@
                                 </div>
                                 <div class="col">
                                     <div class="icon-img"><img src="images/free-registration.png" alt=""></div>
-                                    <h4 class="icon-title text-uppercase">Enjoy Free Registration as a Reward!</h4>
+                                    <h4 class="icon-title text-uppercase">Free Registration!</h4>
                                     <div class="icon-text">
 
                                         <!-- <span>To celebrate the success of our recent campaign, we're thrilled to offer free registration for all participants. Sign up now and take advantage of this exclusive reward. Don’t miss out on this opportunity!</span> -->
@@ -694,7 +689,7 @@
                                 </div>
                                 <div class="col">
                                     <div class="icon-img"><img src="images/cash-discount.png" alt=""></div>
-                                    <h4 class="icon-title text-uppercase">Unlock Up to ৳ 1
+                                    <h4 class="icon-title text-uppercase">Up to ৳ 1
                                         Lakh in Cash Discounts!</h4>
                                     <div class="icon-text">
 
@@ -766,8 +761,8 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="heading-wrapper">
-                                <h2 class="large-heading text-uppercase">Refer to a friend !!</h2>
-                                <h4 class="fw-300">Fill the Gap and We Will Contact You Soon</h4>
+                                <h2 class="large-heading text-uppercase">Give us your feedback!!</h2>
+                                <h4 class="fw-300">Tell us what you think and help us improve</h4>
                             </div>
                         </div>
                     </div>
@@ -791,14 +786,14 @@
                                                 required>
                                         </div>
                                         <div class="form-group col-lg-6 col-sm-6">
-                                            <input type="text" class="form-control" name="friend_name"
-                                                placeholder="Your Friend's Name" required>
+                                            <input type="text" class="form-control" name="car_model"
+                                                placeholder="Your Car Model" required>
                                         </div>
                                     </div>
 
                                     <div class="form-row">
                                         <div class="form-group col-lg-12">
-                                            <textarea class="form-control" name="note" placeholder="Your note"
+                                            <textarea class="form-control" name="note" placeholder="Comments"
                                                 required></textarea>
                                         </div>
                                     </div>
@@ -844,7 +839,7 @@
                                 </div>
                                 <div class="widget-contet footer-menu">
                                     <ul class="menu">
-                                        <li><a href="index.html">Home</a></li>
+                                        <li><a href="index.php">Home</a></li>
                                         <li><a href="https://cherybd.com/pages/tiggo-8-pro" target="_blank">Tiggo 8
                                                 Pro</a></li>
                                         <li><a href="https://cherybd.com/pages/introduction" target="_blank">About
@@ -854,7 +849,7 @@
                                                 target="_blank">Chery
                                                 Service</a></li>
                                         <li><a href="#dealer">Find Showroom</a></li>
-                                        <li><a href="#contact">Refer to a friend</a></li>
+                                        <li><a href="#contact">Feedback</a></li>
                                     </ul>
                                 </div>
                             </div>
