@@ -110,7 +110,7 @@
                                 <li><a href="https://cherybd.com/pages/chery-service-portal" target="_blank">Chery
                                         Service</a></li>
                                 <li><a href="#dealer">Find Showroom</a></li>
-                                <li><a href="#contact">Refer to a friend</a></li>
+                                <li><a href="#contact">Feedback</a></li>
                             </ul>
                             <ul class="header-social-media">
                                 <li><a href="https://www.facebook.com/CheryBDofficial" target="_blank"><i
@@ -786,8 +786,8 @@
                                                 required>
                                         </div>
                                         <div class="form-group col-lg-6 col-sm-6">
-                                            <input type="text" class="form-control" name="friend_name"
-                                                placeholder="Your Friend's Name" required>
+                                            <input type="text" class="form-control" name="car_model"
+                                                placeholder="Your Car Model" required>
                                         </div>
                                     </div>
 
@@ -849,7 +849,7 @@
                                                 target="_blank">Chery
                                                 Service</a></li>
                                         <li><a href="#dealer">Find Showroom</a></li>
-                                        <li><a href="#contact">Refer to a friend</a></li>
+                                        <li><a href="#contact">Feedback</a></li>
                                     </ul>
                                 </div>
                             </div>

@@ -17,7 +17,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Get the form values
     $name = $_POST['name'];
     $email = $_POST['email'];
-    $friend_name = $_POST['friend_name'];
+    $car_model = $_POST['car_model'];
     $phone = $_POST['phone'];
     $note = $_POST['note'];
 
@@ -42,7 +42,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             // Content
             $mail->isHTML(true);                                        // Set email format to HTML
             $mail->Subject = 'New note from ' . $name;
-            $mail->Body    = "<h3>Name: $name</h3><p>Email: $email</p><p>Phone: $phone</p><p>Friend Name: $friend_name</p><p>note: $note</p>";
+            $mail->Body    = "<h3>Name: $name</h3><p>Email: $email</p><p>Phone: $phone</p><p>Car Model: $car_model</p><p>note: $note</p>";
 
 
             // Send email
