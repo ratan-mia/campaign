@@ -901,7 +901,7 @@
                                             <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
                                             <style type="text/css">
                                                 #mc_embed_signup {
-                                                    background: #fff;
+                                                    background: #000;
                                                     false;
                                                     clear: left;
                                                     font: 14px Helvetica, Arial, sans-serif;
