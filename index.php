@@ -150,7 +150,7 @@
                                     <span>Book my Chery</span>
                                     <i class="fas fa-arrow-right ms-2"></i>
                                 </a>
-                                <a style="z-index:9999999999;" class="btn btn-danger btn-accent d-flex align-items-center justify-content-center p-3 p-md-4 fs-6 fs-md-5"
+                                <a style="z-index:9;" class="btn btn-danger btn-accent d-flex align-items-center justify-content-center p-3 p-md-4 fs-6 fs-md-5"
                                     href="https://cherybd.com/pages/book-a-test-drive" target="_blank">
                                     <span>Book a test drive</span>
                                     <i class="fas fa-arrow-right ms-2"></i>
@@ -442,7 +442,7 @@
                                 <div class="feature-ico">
                                     <img src="images/cash-discount.png" alt="">
                                 </div>
-                                <h4>Unlock Up to ৳ 1
+                                <h4>Up to ৳ 1
                                     Lakh in Cash Discounts!</h4>
                                 <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p> -->
                             </div>
@@ -459,7 +459,7 @@
                                 <div class="feature-ico">
                                     <img src="images/free-registration.png" alt="">
                                 </div>
-                                <h4>Enjoy Free Registration as a Reward!</h4>
+                                <h4>Free Registration</h4>
                                 <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p> -->
                             </div>
                             <!-- <div class="features-box">
@@ -686,7 +686,7 @@
                                 </div>
                                 <div class="col">
                                     <div class="icon-img"><img src="images/free-registration.png" alt=""></div>
-                                    <h4 class="icon-title text-uppercase">Enjoy Free Registration as a Reward!</h4>
+                                    <h4 class="icon-title text-uppercase">Free Registration!</h4>
                                     <div class="icon-text">
 
                                         <!-- <span>To celebrate the success of our recent campaign, we're thrilled to offer free registration for all participants. Sign up now and take advantage of this exclusive reward. Don’t miss out on this opportunity!</span> -->
@@ -694,7 +694,7 @@
                                 </div>
                                 <div class="col">
                                     <div class="icon-img"><img src="images/cash-discount.png" alt=""></div>
-                                    <h4 class="icon-title text-uppercase">Unlock Up to ৳ 1
+                                    <h4 class="icon-title text-uppercase">Up to ৳ 1
                                         Lakh in Cash Discounts!</h4>
                                     <div class="icon-text">
 
