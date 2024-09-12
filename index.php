@@ -585,29 +585,24 @@
                                 <h2 class="large-heading text-uppercase"><span>Chery</span>Scratch-&-Win Fiesta</h2>
                             </div>
                             <div class="text-block">
-                                <p>
-                                    We are delighted to announce the launch of our biggest campaign of the year - The
-                                    Scratch-&-Win Fiesta - with Chery Tiggo 8 Pro!
-                                </p>
-                                <p>
-                                    Purchasing the Chery Tiggo 8 Pro will allow you to test your luck with a scratch
-                                    card. Every customer is guaranteed a prize, and the rewards are fantastic! From an
-                                    all-inclusive trip to Thailand to free registration and cash discounts up to 1 lac
-                                    taka, every scratch card reveals something special!
-                                </p>
-                                <p>
-                                    Don’t miss this opportunity to drive in style and win big. Elevate your journey and
-                                    discover what awaits!</p>
 
-                                <p>Visit our showroom today, explore the elegance of the Tiggo 8 Pro, and test your
-                                    luck with our prestigious scratch card campaign.
+                                <h1>Scratch-&-Win Fiesta</h1>
+                                <p>We are delighted to announce the launch of our biggest campaign of the year - <strong>The Scratch-&-Win Fiesta</strong> - with the Chery Tiggo 8 Pro!</p>
 
-                                </p>
+                                <p>Purchasing the Chery Tiggo 8 Pro will earn you the opportunity to test your luck with a scratch card. Every customer is guaranteed a prize, and the rewards are fantastic! From <span class="highlight">air tickets to Thailand</span> to free registration and cash discounts up to <span class="highlight">1 lac taka</span>, every scratch card reveals something special!</p>
+
+                                <p>Don’t miss this opportunity to drive in style and win big. Elevate your journey and discover what awaits!</p>
+
+                                <p>Visit our showroom today, explore the elegance of the Tiggo 8 Pro, and test your luck with our prestigious scratch card campaign.</p>
+
+
+
                             </div>
                             <div class="btn-wrapper">
-                                <a href="https://www.facebook.com/CheryBDofficial" class="btn btn-primary has-icon"
+
+                                <a href="https://cherybd.com/pages/book-a-test-drive" class="btn btn-primary has-icon"
                                     target="_blank">
-                                    <span>Learn More</span>
+                                    <span>Book a Test Drive</span>
                                     <i class="fas fa-arrow-right"></i>
                                 </a>
                             </div>
