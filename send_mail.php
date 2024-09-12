@@ -17,7 +17,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Get the form values
     $name = $_POST['name'];
     $email = $_POST['email'];
-    $firend_name = $_POST['friend_name'];
+    $friend_name = $_POST['friend_name'];
     $phone = $_POST['phone'];
     $note = $_POST['note'];
 
