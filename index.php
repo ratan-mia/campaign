@@ -90,9 +90,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-3 logo">
-                        <a href="./intro/index.php" title="Wheels Bicycle">
-                            <img class="regular-logo img-fluid" src="./images/chery-logo.png" alt="bicycle">
-                            <img class="sticky-logo img-fluid" src="./images/chery-logo.png" alt="bicycle">
+                        <a href="index.php" title="Chery Bangladesh">
+                            <img class="regular-logo img-fluid" src="./images/chery-logo.png" alt="chery bangladesh">
+                            <img class="sticky-logo img-fluid" src="./images/chery-logo.png" alt="chery bangladesh">
                         </a>
                         <div class="menu-icon">
                             <span class="top"></span>
