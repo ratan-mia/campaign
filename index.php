@@ -103,7 +103,7 @@
                     <div class="col-sm-9 menu-conainer">
                         <nav class="site-navigation">
                             <ul class="main-menu">
-                                <li><a href="index.html">Home</a></li>
+                                <li><a href="index.php">Home</a></li>
                                 <li><a href="https://cherybd.com/pages/tiggo-8-pro" target="_blank">Tiggo 8 Pro</a></li>
                                 <li><a href="https://cherybd.com/pages/introduction" target="_blank">About Chery</a>
                                 </li>
