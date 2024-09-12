@@ -905,7 +905,7 @@
                                                     false;
                                                     clear: left;
                                                     font: 14px Helvetica, Arial, sans-serif;
-                                                    width: 350px;
+                                                    width: 100%;
                                                 }
 
                                                 /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
