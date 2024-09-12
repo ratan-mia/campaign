@@ -110,7 +110,7 @@
                                 <li><a href="https://cherybd.com/pages/chery-service-portal" target="_blank">Chery
                                         Service</a></li>
                                 <li><a href="#dealer">Find Showroom</a></li>
-                                <li><a href="#contact">Get in Touch</a></li>
+                                <li><a href="#contact">Refer to a friend</a></li>
                             </ul>
                             <ul class="header-social-media">
                                 <li><a href="https://www.facebook.com/CheryBDofficial" target="_blank"><i
@@ -854,7 +854,7 @@
                                                 target="_blank">Chery
                                                 Service</a></li>
                                         <li><a href="#dealer">Find Showroom</a></li>
-                                        <li><a href="#contact">Get in Touch</a></li>
+                                        <li><a href="#contact">Refer to a friend</a></li>
                                     </ul>
                                 </div>
                             </div>
