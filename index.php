@@ -150,7 +150,7 @@
                                     <span>Book my Chery</span>
                                     <i class="fas fa-arrow-right ms-2"></i>
                                 </a>
-                                <a class="btn btn-danger btn-accent d-flex align-items-center justify-content-center p-3 p-md-4 fs-6 fs-md-5"
+                                <a style="z-index:9999999999;" class="btn btn-danger btn-accent d-flex align-items-center justify-content-center p-3 p-md-4 fs-6 fs-md-5"
                                     href="https://cherybd.com/pages/book-a-test-drive" target="_blank">
                                     <span>Book a test drive</span>
                                     <i class="fas fa-arrow-right ms-2"></i>
