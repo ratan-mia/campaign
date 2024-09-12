@@ -761,8 +761,8 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="heading-wrapper">
-                                <h2 class="large-heading text-uppercase">Refer to a friend !!</h2>
-                                <h4 class="fw-300">Fill the Gap and We Will Contact You Soon</h4>
+                                <h2 class="large-heading text-uppercase">Give us your feedback!!</h2>
+                                <h4 class="fw-300">Tell us what you think and help us improve</h4>
                             </div>
                         </div>
                     </div>
@@ -793,7 +793,7 @@
 
                                     <div class="form-row">
                                         <div class="form-group col-lg-12">
-                                            <textarea class="form-control" name="note" placeholder="Your note"
+                                            <textarea class="form-control" name="note" placeholder="Comments"
                                                 required></textarea>
                                         </div>
                                     </div>
