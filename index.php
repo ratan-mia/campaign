@@ -766,7 +766,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="heading-wrapper">
-                                <h2 class="large-heading text-uppercase">Say Hi !!</h2>
+                                <h2 class="large-heading text-uppercase">Refer to a friend !!</h2>
                                 <h4 class="fw-300">Fill the Gap and We Will Contact You Soon</h4>
                             </div>
                         </div>
@@ -786,8 +786,19 @@
                                         </div>
                                     </div>
                                     <div class="form-row">
+                                        <div class="form-group col-lg-6 col-sm-6">
+                                            <input type="text" class="form-control" name="phone" placeholder="Your Phone"
+                                                required>
+                                        </div>
+                                        <div class="form-group col-lg-6 col-sm-6">
+                                            <input type="text" class="form-control" name="friend_name"
+                                                placeholder="Your Friend's Name" required>
+                                        </div>
+                                    </div>
+
+                                    <div class="form-row">
                                         <div class="form-group col-lg-12">
-                                            <textarea class="form-control" name="question" placeholder="Your Question"
+                                            <textarea class="form-control" name="note" placeholder="Your note"
                                                 required></textarea>
                                         </div>
                                     </div>

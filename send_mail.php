@@ -17,10 +17,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Get the form values
     $name = $_POST['name'];
     $email = $_POST['email'];
-    $question = $_POST['question'];
+    $firend_name = $_POST['friend_name'];
+    $phone = $_POST['phone'];
+    $note = $_POST['note'];
 
     // Validate the inputs
-    if (!empty($name) && !empty($email) && !empty($question)) {
+    if (!empty($name) && !empty($email) && !empty($note)) {
         // Create a new PHPMailer instance
         $mail = new PHPMailer(true);
         try {
@@ -39,8 +41,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
             // Content
             $mail->isHTML(true);                                        // Set email format to HTML
-            $mail->Subject = 'New Question from ' . $name;
-            $mail->Body    = "<h3>Name: $name</h3><p>Email: $email</p><p>Question: $question</p>";
+            $mail->Subject = 'New note from ' . $name;
+            $mail->Body    = "<h3>Name: $name</h3><p>Email: $email</p><p>Phone: $phone</p><p>Friend Name: $friend_name</p><p>note: $note</p>";
+
 
             // Send email
             $mail->send();
