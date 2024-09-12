@@ -434,7 +434,7 @@
                                 <div class="feature-ico">
                                     <img src="images/thailand-ticket.png" alt="">
                                 </div>
-                                <h4>Air Ticket to Thailand</h4>
+                                <h4>Air Tickets to Thailand</h4>
                                 <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque.</p> -->
                             </div>
 
@@ -501,7 +501,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="heading-wrapper text-center">
-                                <h2 class="large-heading text-uppercase"><span>Chery</span> Why Choose?</h2>
+                                <h2 class="large-heading text-uppercase"><span>Why Choose</span>Chery?</h2>
                             </div>
                         </div>
                     </div>
@@ -668,7 +668,7 @@
                             <div class="row power-icon">
                                 <div class="col">
                                     <div class="icon-img"><img src="images/thailand-ticket.png" alt=""></div>
-                                    <h4 class="icon-title text-uppercase">Air Ticket to Thailand</h4>
+                                    <h4 class="icon-title text-uppercase">Air Tickets to Thailand</h4>
                                     <div class="icon-text">
                                         <p>
                                             <!-- <span> Celebrate your campaign success with an
