@@ -90,7 +90,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-3 logo">
-                        <a href="./intro/index.html" title="Wheels Bicycle">
+                        <a href="./intro/index.php" title="Wheels Bicycle">
                             <img class="regular-logo img-fluid" src="./images/chery-logo.png" alt="bicycle">
                             <img class="sticky-logo img-fluid" src="./images/chery-logo.png" alt="bicycle">
                         </a>
@@ -839,7 +839,7 @@
                                 </div>
                                 <div class="widget-contet footer-menu">
                                     <ul class="menu">
-                                        <li><a href="index.html">Home</a></li>
+                                        <li><a href="index.php">Home</a></li>
                                         <li><a href="https://cherybd.com/pages/tiggo-8-pro" target="_blank">Tiggo 8
                                                 Pro</a></li>
                                         <li><a href="https://cherybd.com/pages/introduction" target="_blank">About
